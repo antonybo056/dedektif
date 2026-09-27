@@ -1,0 +1,5 @@
+# Oyuncunun kişisel ilerlemesi
+kayit.json
+*.tmp
+__pycache__/
+*.pyc
